@@ -1,4 +1,4 @@
-# 👋 Jhoel Silvestre - Desarrollador Frontend
+sv# 👋 Jhoel Silvestre - Desarrollador Frontend
 
 ¡Hola! Soy Jhoel Silvestre, un desarrollador frontend apasionado con experiencia en TypeScript, JavaScript, HTML, CSS (especialmente con Tailwind CSS), MongoDB y Docker. Estoy emocionado de trabajar en proyectos web y aplicaciones para crear experiencias atractivas y funcionales para los usuarios.
 
@@ -22,8 +22,12 @@ Aquí hay una lista de algunos de mis proyectos más destacados:
 
 3. **Sistema de Gestión de Tareas**: Desarrollé una aplicación web de gestión de tareas con React y TypeScript. Los usuarios pueden crear, editar y eliminar tareas, y los datos se almacenan en MongoDB.
 
+## MI portafolio
+
+[**Mi página web**](https://jhoel-silvestre.web.app/#/home)
+
 ## Contacto
 
-¡Estoy emocionado de colaborar en proyectos interesantes! Si deseas contactarme para trabajar juntos en un proyecto o tienes alguna pregunta, no dudes en enviarme un correo electrónico a [tu@email.com](mailto:tu@email.com).
+¡Estoy emocionado de colaborar en proyectos interesantes! Si deseas contactarme para trabajar juntos en un proyecto o tienes alguna pregunta, no dudes en enviarme un correo electrónico a [jhoel.sv25@mail.com](mailto:jhoel.sv25@mail.com).
 
 ¡Gracias por visitar mi perfil! 😄
