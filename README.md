@@ -1,33 +1,70 @@
-## 👋 Jhoel Silvestre - Desarrollador Frontend
+## 👋 Jhoel Silvestre — Desarrollador Frontend
 
-¡Hola! Soy Jhoel Silvestre, un desarrollador frontend apasionado con experiencia en TypeScript, JavaScript, HTML, CSS (especialmente con Tailwind CSS), MongoDB y Docker. Estoy emocionado de trabajar en proyectos web y aplicaciones para crear experiencias atractivas y funcionales para los usuarios.
+¡Hola! Soy **Jhoel Silvestre**, **Desarrollador Frontend con más de 2 años de experiencia** creando aplicaciones web modernas, escalables y centradas en el usuario. Me apasiona transformar ideas en productos digitales funcionales, atractivos y eficientes, combinando buen diseño con código limpio.
 
-## Habilidades y Tecnologías
+He trabajado en proyectos que abarcan desde **e-commerce** hasta **aplicaciones de gestión**, integrando tecnologías modernas del ecosistema JavaScript y explorando soluciones innovadoras con **inteligencia artificial**.
 
-- **TypeScript y JavaScript**: Tengo experiencia en el uso de TypeScript y JavaScript para crear aplicaciones web dinámicas y funcionales. Me encanta trabajar con frameworks como Angular y React.
+---
 
-- **HTML y CSS (Tailwind CSS)**: Diseño interfaces de usuario atractivas y receptivas utilizando HTML y CSS. Soy un gran admirador de Tailwind CSS por su eficiencia y facilidad de uso.
+## 🚀 Habilidades y Tecnologías
 
-- **MongoDB**: Trabajo con bases de datos NoSQL como MongoDB para almacenar y gestionar datos en aplicaciones web. Puedo diseñar esquemas y consultas eficientes.
+### 🧠 Lenguajes y Frameworks
+- **TypeScript & JavaScript** — Desarrollo de aplicaciones robustas y mantenibles.
+- **Angular** — Experiencia sólida en aplicaciones empresariales, módulos, servicios y buenas prácticas.
+- **React** — Creación de interfaces dinámicas y reutilizables.
+- **Next.js (básico)** — Conocimientos en SSR, rutas y optimización inicial.
+- **NestJS** — Desarrollo de APIs backend escalables y bien estructuradas.
 
-- **Docker**: Utilizo Docker para contenerizar aplicaciones web y simplificar su implementación y gestión. Puedo crear imágenes Docker personalizadas para entornos de desarrollo y producción.
+### 🎨 UI / UX
+- **HTML5 & CSS3**
+- **Tailwind CSS** — Diseño rápido, responsive y consistente enfocado en la experiencia de usuario.
 
-## Proyectos Destacados
+### 🗄️ Bases de Datos y Backend
+- **MongoDB** — Bases de datos NoSQL, modelado de datos y consultas eficientes.
+- **PostgreSQL** — Bases de datos relacionales, diseño de esquemas y consultas SQL.
+- **Supabase** — Backend como servicio (PostgreSQL, Auth, Storage).
 
-Aquí hay una lista de algunos de mis proyectos más destacados:
+### 🤖 Inteligencia Artificial
+- **Agentes con IA (nivel básico/intermedio)** — Integración de agentes inteligentes para automatización y asistencia en aplicaciones web.
 
-1. **E-commerce Website**: Desarrollé un sitio web de comercio electrónico desde cero utilizando React y Tailwind CSS. La aplicación permite a los usuarios explorar productos, agregarlos al carrito y realizar compras seguras.
+### 🐳 DevOps
+- **Docker** — Contenerización de aplicaciones para entornos de desarrollo y producción.
 
-2. **Blog Personal**: Creé un blog personal utilizando Angular para compartir mis pensamientos y conocimientos sobre desarrollo web y tecnología. Implementé una función de comentarios con MongoDB como base de datos.
+---
 
-3. **Sistema de Gestión de Tareas**: Desarrollé una aplicación web de gestión de tareas con React y TypeScript. Los usuarios pueden crear, editar y eliminar tareas, y los datos se almacenan en MongoDB.
+## 💼 Proyectos Destacados
 
-## Mi portafolio
+### 🛒 E-commerce Website
+Aplicación de comercio electrónico desarrollada con **React y Tailwind CSS**:
+- Exploración de productos
+- Carrito de compras
+- Flujo de compra intuitivo y seguro
 
-[**Mi página web**](https://jhoel-silvestre.web.app/#/home)
+### ✍️ Blog Personal
+Blog creado con **Angular** para compartir conocimientos sobre desarrollo web y tecnología:
+- Sistema de comentarios
+- Persistencia de datos con **MongoDB**
 
-## Contacto
+### ✅ Sistema de Gestión de Tareas
+Aplicación web desarrollada con **React y TypeScript**:
+- Crear, editar y eliminar tareas
+- Persistencia en **MongoDB**
+- Interfaz clara y enfocada en productividad
 
-¡Estoy emocionado de colaborar en proyectos interesantes! Si deseas contactarme para trabajar juntos en un proyecto o tienes alguna pregunta, no dudes en enviarme un correo electrónico a [jhoel.sv25@mail.com](mailto:jhoel.sv25@mail.com).
+---
 
-¡Gracias por visitar mi perfil! 😄
+## 🌐 Portafolio
+
+🔗 **[Mi página web](https://jhoel-silvestre.web.app/#/home)**
+
+---
+
+## 📬 Contacto
+
+Estoy abierto a **nuevas oportunidades, proyectos freelance y colaboraciones**.
+
+📧 **Correo:** [jhoel.sv25@mail.com](mailto:jhoel.sv25@mail.com)
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡Siempre listo para crear algo increíble!*
