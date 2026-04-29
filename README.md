@@ -63,7 +63,7 @@ Aplicación web desarrollada con **React y TypeScript**:
 
 Estoy abierto a **nuevas oportunidades, proyectos freelance y colaboraciones**.
 
-📧 **Correo:** [jhoel.sv25@mail.com](mailto:jhoel.sv25@mail.com)
+📧 **Correo:** [jhoel.sv25@mail.com](mailto:jhoel.sv25@gmail.com)
 
 ---
 
