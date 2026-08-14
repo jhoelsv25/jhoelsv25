@@ -64,12 +64,6 @@ Soy **Ingeniero de Sistemas** enfocado en el desarrollo **Full Stack** e integra
 `Next.js 15` • `React 19` • `Prisma ORM` • `PostgreSQL` • `Tailwind CSS v4`  
 ⚡ **99/100 Core Web Vitals** | Cálculo de cuotas en tiempo real y proxy middleware de sesión seguro.
 
----
-
-### 🌐 **[Ascendia — Portal Web Corporativo](https://ascendia.pe)**
-*Sitio web corporativo de alta gama especializado en supervisión e ingeniería de proyectos.*  
-`Next.js 15` • `Motion` • `Lenis Smooth Scroll` • `Tailwind CSS`  
-🎯 **100% SEO Score** | Arquitectura Fidenza desacoplada, animaciones cinéticas y diseño responsivo fluido.
 
 ---
 
